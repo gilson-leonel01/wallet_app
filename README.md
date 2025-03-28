@@ -15,7 +15,7 @@ Siga as instruções abaixo para configurar e rodar o projeto localmente.
 Primeiro, clone o repositório do projeto:
 
 ```sh
-git clone https://github.com/seu-usuario/wallet_app.git
+git clone https://github.com/gilson-leonel01/wallet_app.git
 cd wallet_app
 ```
 
