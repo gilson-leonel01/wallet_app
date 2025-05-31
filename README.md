@@ -1,6 +1,6 @@
 # Wallet App
 
-![Wallet App](https://image/full-design)
+![Wallet App](https://github.com/gilson-leonel01/wallet_app/blob/1f0fb1d0a78d8b4ecd3f0c931889a5a92a59b0cc/projectFrames.png)
 
 ## 📌 Visão Geral
 
